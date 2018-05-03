@@ -1,0 +1,2 @@
+webpackJsonp([0x7107db290105],{389:function(a,e){a.exports={data:{site:{siteMetadata:{title:"Alicia Wangeci",author:"Alicia Wangeci"}},markdownRemark:{id:"/home/athena/Gaea/aliciawangeci/src/pages/hi-folks/index.md absPath of file >>> MarkdownRemark",html:"<p>Hello World, this is just a demo blog post.</p>",frontmatter:{title:"Hello World",date:"May 04, 2018"}}},pathContext:{slug:"/hi-folks/",previous:null,next:null}}}});
+//# sourceMappingURL=path---hi-folks-3ac35046efb21bf66832.js.map

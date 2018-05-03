@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-bc1e8fb6908183e701c2.js",
-      "path---my-second-post-bc1e8fb6908183e701c2.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-18ea8ef6b89ff7c3d2c5.js",
       "component---src-pages-index-js-18ea8ef6b89ff7c3d2c5.js.map"
@@ -25,16 +21,12 @@
       "component---src-layouts-index-js-e04cf70f263ca2d250da.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-97b5a6a950de489ca863.js",
-      "path---hi-folks-97b5a6a950de489ca863.js.map"
+      "path---hi-folks-3ac35046efb21bf66832.js",
+      "path---hi-folks-3ac35046efb21bf66832.js.map"
     ],
     "path---index": [
-      "path---index-e9987de3954b7cfa7d1b.js",
-      "path---index-e9987de3954b7cfa7d1b.js.map"
-    ],
-    "path---hello-world": [
-      "path---hello-world-ccfa4adf6a738297db7e.js",
-      "path---hello-world-ccfa4adf6a738297db7e.js.map"
+      "path---index-fac38b62dd00d49187a5.js",
+      "path---index-fac38b62dd00d49187a5.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -55,9 +47,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-8dfc7930a713cc9b11de.js",
+      "app-e4ad5f2a9f8c49153d14.js",
       "build-js-styles.css",
-      "app-8dfc7930a713cc9b11de.js.map",
+      "app-e4ad5f2a9f8c49153d14.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

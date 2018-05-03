@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{390:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Alicia Wangeci"}},allMarkdownRemark:{edges:[{node:{excerpt:"Hello World, this is just a demo blog post.",fields:{slug:"/hi-folks/"},frontmatter:{date:"04 May, 2018",title:"Hello World"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-fac38b62dd00d49187a5.js.map
